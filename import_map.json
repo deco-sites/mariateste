@@ -1,11 +1,10 @@
 {
   "imports": {
     "deco-sites/mariateste/": "./",
-
     "deco-sites/fashion/": "./",
     "$store/": "./",
-    "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.15.2/",
-    "$live/": "https://denopkg.com/deco-cx/deco@1.22.10/",
+    "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.20.14/",
+    "$live/": "https://denopkg.com/deco-cx/deco@1.30.8/",
     "$fresh/": "https://denopkg.com/deco-cx/fresh@1.3.3/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/",
